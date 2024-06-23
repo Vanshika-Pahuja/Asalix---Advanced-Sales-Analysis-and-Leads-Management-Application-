@@ -11,7 +11,7 @@ Asalix is an advanced sales analysis and leads management application designed t
 3. Better Decision Making: Offers reporting and analytics capabilities to gain insights into sales performance, track key metrics, and make data-driven decisions to optimize sales strategies.
 4. Stronger Customer Relationships: Enables personalized communication, timely follow-ups, and better customer service, fostering stronger relationships and increasing customer satisfaction and loyalty.
 
-**TECHSTACK: MERN STACK (MongoDB , Expressjs , Reactjs , Nodejs) , Postman API Testing , Google Authentication (Google OAuth ClientId and Tokens saved at Local Storage) **
+**TECHSTACK: MERN STACK (MongoDB , Expressjs , Reactjs , Nodejs) , Postman API Testing , Google Authentication (Google OAuth ClientId and Tokens saved at Local Storage)** 
 
 SCREENSHOTS :
 
